@@ -1,0 +1,45 @@
+_repo: The-War-on-All-Fronts--England-s-EffortLetters-to-an-American-Friend_16089
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Choate, Joseph Hodges
+    alias: Choate, Joseph H.
+    birthdate: 1832
+    deathdate: 1917
+    gutenberg_agent_id: '6479'
+    url: http://www.gutenberg.org/2009/agents/6479
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Hodges_Choate
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ward, Humphry, Mrs.
+    aliases:
+    - Ward, Mary Augusta Arnold
+    - Arnold, Mary Augusta
+    - Ward, Mrs. Humphry
+    birthdate: 1851
+    deathdate: 1920
+    gutenberg_agent_id: '2629'
+    url: http://www.gutenberg.org/2009/agents/2629
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Augusta_Ward
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16089'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives, British'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Women'
+- !lcsh 'Great Britain. Army -- Ordnance facilities'
+title: 'The War on All Fronts: England''s Effort
+
+  Letters to an American Friend'
+url: http://www.gutenberg.org/ebooks/16089
